@@ -25,3 +25,5 @@ Requires -
  - [PyYaml](http://pyyaml.org/)
  - [WeasyPrint](http://weasyprint.org/)
  - [jinja2](http://jinja.pocoo.org)
+
+Dummy addition - do not approve
